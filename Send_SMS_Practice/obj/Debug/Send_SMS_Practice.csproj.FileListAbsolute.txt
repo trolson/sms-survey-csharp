@@ -1,0 +1,13 @@
+c:\users\tolson\documents\visual studio 2017\Projects\Send_SMS_Practice\Send_SMS_Practice\bin\Debug\Send_SMS_Practice.exe.config
+c:\users\tolson\documents\visual studio 2017\Projects\Send_SMS_Practice\Send_SMS_Practice\bin\Debug\Send_SMS_Practice.exe
+c:\users\tolson\documents\visual studio 2017\Projects\Send_SMS_Practice\Send_SMS_Practice\bin\Debug\Send_SMS_Practice.pdb
+c:\users\tolson\documents\visual studio 2017\Projects\Send_SMS_Practice\Send_SMS_Practice\bin\Debug\Bandwidth.Net.dll
+c:\users\tolson\documents\visual studio 2017\Projects\Send_SMS_Practice\Send_SMS_Practice\bin\Debug\Newtonsoft.Json.dll
+c:\users\tolson\documents\visual studio 2017\Projects\Send_SMS_Practice\Send_SMS_Practice\bin\Debug\Bandwidth.Net.xml
+c:\users\tolson\documents\visual studio 2017\Projects\Send_SMS_Practice\Send_SMS_Practice\bin\Debug\Newtonsoft.Json.xml
+c:\users\tolson\documents\visual studio 2017\Projects\Send_SMS_Practice\Send_SMS_Practice\obj\Debug\Send_SMS_Practice.exe
+c:\users\tolson\documents\visual studio 2017\Projects\Send_SMS_Practice\Send_SMS_Practice\obj\Debug\Send_SMS_Practice.pdb
+C:\Users\tolson\documents\visual studio 2017\Projects\Send_SMS_Practice\Send_SMS_Practice\obj\Debug\Send_SMS_Practice.csprojResolveAssemblyReference.cache
+C:\Users\tolson\documents\visual studio 2017\Projects\Send_SMS_Practice\Send_SMS_Practice\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tolson\documents\visual studio 2017\Projects\Send_SMS_Practice\Send_SMS_Practice\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tolson\documents\visual studio 2017\Projects\Send_SMS_Practice\Send_SMS_Practice\bin\Debug\HtmlAgilityPack.xml

@@ -1,0 +1,4 @@
+﻿What is your name?
+What is your DOB?
+What is your gender? Respond 1 for Male, 2 for Female, or 3 for other/wish not to specify?
+Have you heard of Bandwidth before? Respond 1 for yes, 2 for no.
